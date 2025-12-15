@@ -2,7 +2,7 @@ const mod1 = document.getElementById('mod1');
 const mod2 = document.getElementById('mod2');
 const mod3 = document.getElementById('mod3');
 mod1.addEventListener('click', (event) => {
-    window.open('https://fonts.googleapis.com', '_self');
+    window.open('https://github.com/pabloVICH-hehe/pabloVICH-hehe.github.io/tree/master', '_self');
 });
 mod2.addEventListener('click', (event) => {
     window.open('https://mari-shipit.github.io/', '_self');
